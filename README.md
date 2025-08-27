@@ -33,9 +33,9 @@ A responsive, accessible recipe page showcasing semantic HTML, a typographic sca
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/Byte-nana/front-end-mentor-practice/tree/a240de5b725ddc58dd8f96c0d48f432637082705/recipe-page-main)
+- Solution URL: [GitHub Repo](https://github.com/Byte-nana/frontend-mentor-recipe-page)
 
-- Live Site URL: [Live Demo](https://byte-nana.github.io/front-end-mentor-practice/recipe-page-main/)
+- Live Site URL: [Live Demo](https://byte-nana.github.io/frontend-mentor-recipe-page/)
 
 ## My process
 
