@@ -21,12 +21,21 @@ A responsive, accessible recipe page showcasing semantic HTML, a typographic sca
 
 ### Screenshot
 
-![](./screenshot.jpg)
+**Desktop view**
+
+![Desktop screenshot](./screenshot__desktop.png)
+
+**Mobile view**
+
+![Mobile screenshot](./screenshot__mobile.png)
 
 ### Links
 
-- Solution URL: [https://your-repo-url.com](https://your-repo-url.com)
-- Live Site URL: [https://your-live-url.com](https://your-live-url.com)
+### Links
+
+- Solution URL: [GitHub Repo](https://github.com/Byte-nana/front-end-mentor-practice/tree/a240de5b725ddc58dd8f96c0d48f432637082705/recipe-page-main)
+
+- Live Site URL: [Live Demo](https://byte-nana.github.io/front-end-mentor-practice/recipe-page-main/)
 
 ## My process
 
